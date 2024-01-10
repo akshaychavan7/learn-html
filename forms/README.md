@@ -19,13 +19,13 @@ Ans: On click of submit button, the form control will be tranferred to the serve
 Ans: It specifies the type of HTTP request that we are trying to call on form submission.
 
 3. What is the purpose of the _name_ attribute in the _input_ tag?<br>
-Ans: The _name_ attribute works as an identifier for the input tag which is used for inputting name in the form.
+Ans: The _name_ attribute works as an identifier for the input tag which is used for inputting name in the form. This is used to identify field value in our server.
 
 4. What is the purpose of the _type_ attrbute in the _input_ tag?<br>
 Ans: It specifies the type of the input. It can be a checkbox, a textbox, a password input, or a button.
 
 5. What is the purpose of the _label_ tag?<br>
-Ans: _label_ tag assigns a label for an input tag.
+Ans: _label_ tag assigns a label for an input tag. It works as a hint to the user.
 
 6. What is the purpose of the _required_ attribute?<br>
 Ans: The _required_ attributes makes the input field as a mandatory field.
